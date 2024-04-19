@@ -35,7 +35,11 @@ public class GuessGame {
             System.out.println("We have a winner!");
 
         } else{
-            System.out.println("No winners this time. Try again!");
+<<<<<<< HEAD
+            System.out.println("No winners this time");
+=======
+            System.out.println("No winners this time");
+>>>>>>> 37b80607be3e01169e2c3c0a48999cf594660967
         }
     }
 }
